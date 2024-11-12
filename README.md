@@ -1,5 +1,7 @@
 # Firefighter/feu de la vie
 
+Ce jeu a été réalisé en collaboration avec mon équipe au cours d'une semaine dédié au code dans mon cursus, la Coding Week. Dans le code présenté ici, mon rôle a surtout été de coordonner les différents membres de l'équipe pour que l'on choisisse les mêmes partis pris dans notre code. Je me suis aussi chargé de l'intégration des différents morceaux de code pour que le projet puisse fonctionner
+
 ## Description
 
 MVP : Ce projet a pour but de modéliser la propagation d'un feu, tout en ajoutant des interactions avec l'utilisateur. 
