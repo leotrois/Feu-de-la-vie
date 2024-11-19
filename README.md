@@ -9,7 +9,8 @@ Je me suis aussi chargé de l'intégration des différents morceaux de code pour
 
 MVP : Ce projet a pour but de modéliser la propagation d'un feu, tout en ajoutant des interactions avec l'utilisateur. 
 
-Pour lancer le jeu, lancer la fonction display_game dans le fichier main_pygame.py .
+Pour lancer le jeu, lancer la fonction display_game dans le fichier main_pygame.py. Pour faire cela on pourra
+simplement éxécuter le fichier main_pygame.py
 
 ## Équipe
 
