@@ -22,6 +22,8 @@ Guillaume
 Xavier 
 Léo 
 
+![Simulation](./Images/simulation.PNG)
+
 ## Description des fichiers
 
 ### choice.py

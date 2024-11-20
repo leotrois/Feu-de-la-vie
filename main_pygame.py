@@ -3,7 +3,7 @@ from start_fire import *
 from choice import *
 from display_im import *
 from neighborhood import *
-from gamemode import *
+from gamemode import *  
 from pygame_add_fire import *
 
 def display_game() :
